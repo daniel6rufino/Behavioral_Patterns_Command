@@ -1,4 +1,3 @@
 🕹️ Exemplo de Command Pattern em Python
 
-Este projeto demonstra o uso do Command Pattern em Python, um dos padrões de design comportamentais.
-Ele encapsula ações (comandos) em objetos, permitindo que você desacople o objeto que emite uma solicitação daquele que a executa.
+Esta branch mostra um exemplo sem Command (e com estrutura acoplada) da branch main
